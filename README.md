@@ -1,0 +1,4 @@
+- Compared single models (Decision Tree, KNN, Random Forest, XGBoost) vs. Ensemble model (Stacking)
+- Best model: Stacking Classifier – 99.96% accuracy, but slower training
+- Fastest model: KNN – lowest accuracy but quickest (0.04 sec)
+- Insight: Choose model based on trade-off between detection performance vs. speed
